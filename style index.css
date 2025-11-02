@@ -63,7 +63,7 @@ body {
 }
 /*Header*/
 header {
-  background-image: url(/Images/wave-yellow-gradient-background/58a42f4a-214e-41b4-a9b6-2ab88cc1a35c.jpg);
+  background-image: url(Images/wave-yellow-gradient-background/58a42f4a-214e-41b4-a9b6-2ab88cc1a35c.jpg);
   background-size: 115%;
   background-position: right bottom;
   height: 648px;
@@ -419,7 +419,7 @@ header {
 
 /*Section #3*/
 #section3 {
-  background-image: url(/Images/wave-yellow-gradient-background/58a42f4a-214e-41b4-a9b6-2ab88cc1a35c.jpg);
+  background-image: url(Images/wave-yellow-gradient-background/58a42f4a-214e-41b4-a9b6-2ab88cc1a35c.jpg);
   background-size: 410%;
   padding-top: 40px;
   padding-bottom: 80px;
@@ -629,7 +629,7 @@ header {
 
 /*Products Section*/
 #product-section {
-  background-image: url(/Images/abstract-red-background-2/1de959f6-ac52-413b-a684-00794bf2c1c2.jpg);
+  background-image: url(Images/abstract-red-background-2/1de959f6-ac52-413b-a684-00794bf2c1c2.jpg);
   margin-left: -1.5px;
   margin-top: -3.5px;
   padding-top: 40px;
@@ -1119,3 +1119,4 @@ hr {
     margin-top: 45px;
   }
 }
+
